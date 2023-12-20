@@ -1,8 +1,0 @@
-imaplib
-email
-re
-urllib3
-selenium
-python-dateutil
-tkinter
-chromedriver-autoinstaller
