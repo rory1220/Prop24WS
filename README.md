@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Python script connects to an IMAP email server, searches for emails from a specific sender within the current week, extracts Property24 URLs from the emails, and scrapes data from the corresponding web pages. The extracted data includes property details such as price, address, size, property type, and date of listing. The script then writes this information to CSV files.
+This Python script connects to an IMAP email server, searches for emails from a specific sender within the current week, extracts Property24 URLs from the emails, and scrapes data from the corresponding web pages. The extracted data includes property details such as price, address, size, property type, and date of listing.
 
 ## Prerequisites
 
