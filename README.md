@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 1. Run the script:
 
-python property_scraper.py
+<Ichangethisnameallthetimeforsomereasonsowhateveritisnow>.py
 
 2. Follow the prompts to enter your IMAP server details and login credentials.
 
