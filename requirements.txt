@@ -2,4 +2,4 @@ email==6.0.0a1
 urllib3==1.26.7
 selenium==4.1.0
 python-dateutil==2.8.2
-chromedriver-autoinstaller==0.2.5
+chromedriver-autoinstaller
