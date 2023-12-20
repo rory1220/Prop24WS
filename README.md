@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 1. Run the script:
 
-<Ichangethisnameallthetimeforsomereasonsowhateveritisnow>.py
+Ichangethisnameallthetimeforsomereasonsowhateveritisnow.py
 
 2. Follow the prompts to enter your IMAP server details and login credentials.
 
